@@ -25,13 +25,13 @@ Currently advancing expertise in Next.js, cloud integration, and mobile-first de
 
 
 ## 💻 Full-Stack Development
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" align="left"/>          **End-to-end solutions using React/Next.js, Node.js/Express, REST/GraphQL APIs, and modern authentication (JWT, OAuth).**
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" align="left"/>          **End-to-end solutions using React, Node.js/Express, REST/GraphQL APIs, and modern authentication (JWT, OAuth).**
 
 
 
 
 ## ☁️ Advanced Backend & DevOps
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100" align="left"/>           **Database optimization (MySQL, PostgreSQL, MongoDB), serverless deployment (Vercel, AWS), Docker containerization, and CI/CD pipelines.**
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100" align="left"/>           **Database optimization (MySQL, MongoDB), serverless deployment (Vercel, AWS), Docker containerization, and CI/CD pipelines.**
 
 
 
