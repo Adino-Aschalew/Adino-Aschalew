@@ -6,7 +6,7 @@
 </div>
 
 ## <div align="center"> About Me
-**<div align="center">Seasoned frontend developer and graphic designer specializing in responsive web applications, intuitive UI/UX, 
+**<div align="center">Seasoned Full Stack developer and graphic designer specializing in responsive web applications, intuitive UI/UX, 
 <br/> and brand identity solutions. Passionate about delivering high-performance projects that drive user engagement and business growth.<br/>
 Currently advancing expertise in Next.js, cloud integration, and mobile-first development.​**
 
