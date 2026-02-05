@@ -1,6 +1,6 @@
 ## <div align="center"> <img src="https://cdn.pixabay.com/photo/2023/10/03/10/06/anonymous-8291092_640.png" width="120" height="140" alt="Professional Profile Photo" /><br/>I'm Adino Aschalew <br/>
 
-## <div align="center"> Student | Frontend  Developer | Graphics  Designer | Freelancer<br/>**Building scalable web applications and modern designs with React, Node.js, and Tailwind CSS​**
+## <div align="center"> Student | Full Stack MERN Developer | Graphics  Designer | Freelancer<br/>**Building scalable web applications and modern designs with React, Node.js, and Tailwind CSS​**
 
 
 </div>
@@ -11,7 +11,7 @@
 Currently advancing expertise in Next.js, cloud integration, and mobile-first development.​**
 
 ## Core Skills
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,nextjs,tailwind,mysql,postgres,prisma,mongodb,git,github,figma,photoshop,canva,framer&theme=dark&perline=8" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,mysql,mongodb,git,github,figma,photoshop,canva,framer&theme=dark&perline=8" /> </p>
 
 ## Daily Tools
 <p align="center"> <img src="https://skillicons.dev/icons?i=vscode,postman,git,github,figma,notion,vercel,aws,docker&theme=dark&perline=8" /> </p>
@@ -39,16 +39,8 @@ Currently advancing expertise in Next.js, cloud integration, and mobile-first de
 
 **React Native for cross-platform apps, Tailwind for rapid prototyping, and AI integrations for dynamic features.​**
 
-## Skill Evolution Timeline
-
-   ## Section - Frontend
-   
-    Graphic Design                                    :2023,
-    HTML/CSS /JavaScript                              :2023, 
-    React/Next.js / Tailwind/UI-UX                    :2024, 
-       
    ##  Section Backend & Full-Stack
-  **<div align="center">   Node.js / Express / MySQL / PostgreSQL /  Prisma / MongoDB    <br>    from 2025-Present,**
+  **<div align="center">   Node.js / Express / MySQL / MongoDB    <br>    from 2025-Present,**
 
     
     Section DevOps & Mobile
